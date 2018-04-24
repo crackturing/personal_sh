@@ -15,7 +15,7 @@ case ${VALUE} in
 		ssh tangqishun@10.100.129.82
 		;;
 	*)
-		ssh chinatsp@10.100.129.111
+		ssh tangqishun@10.100.129.111
 		;;
 esac
 
