@@ -1,0 +1,17 @@
+[user]
+	email = zhangdan@chinatsp.com
+	name = zhangdan
+[color]
+	ui = auto
+[alias]
+	st = status
+	ci = commit
+	br = branch
+    co = checkout
+    lg = log --oneline 
+[core]
+	editor = vim
+[commit]
+	template = ~/.commit_temp
+[remote "origin"]
+        push = HEAD:refs/for/master
