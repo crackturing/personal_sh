@@ -8,6 +8,8 @@ else
 	VALUE=$1
 fi
 
+#/home/chinatsp/.ssh/authorized_keys auto login
+
 case ${VALUE} in
 	82)
 		ssh tangqishun@10.100.129.82
